@@ -1,6 +1,6 @@
 ## Hey!👋
 
-### <div align="left">I'm Mateo, an 18 years old Full-stack developer, from Ecuador 👨‍💻</div>  
+### <div align="left">I'm Mateo, an 18 years old Full-stack developer from Ecuador 👨‍💻</div>  
  
   
 
