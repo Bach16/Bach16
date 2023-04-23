@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Typescript and MongoDB  
   
 
-- ❓ Ask me about anything related to React and related technologies  
+- ❓ Any questions regarding React and similar technologies are welcome. 
   
 
 - ⚡ Fun fact: 12% of GitHub users don't know what to write in this section of their profile, and make up statistics in an attempt to appear knowledgeable  
