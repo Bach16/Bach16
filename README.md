@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **gwyn56717@gmail.com**
 
-- ⚡ Fun fact **I love critical thinking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
