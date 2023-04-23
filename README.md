@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://cdn.dribbble.com/userupload/6159299/file/original-d1acd3d2e9b21eb9696a57e8b6d024ec.png?compress=1&resize=752x564" align="left" style="width: 100%" />  
   
 
 ### <div align="center">I'm Mateo, an 18 years old full-stack developer, from Ecuador 👨‍💻</div>  
