@@ -79,19 +79,12 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Bach16&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>   
-
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Bach16&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Bach16&&style=flat-square" align="center" />
-</div>  
-  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2kzf8slvw4ofc9t5anpq4beo5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
 
 <br/>  
 
