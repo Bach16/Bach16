@@ -5,7 +5,7 @@
 Hello! 🙂 I'm Mateo Rojas, Full-stack developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
 
-- 🔭 I’m currently working on [My portfolio](https://ismael-rojas.vercel.app)  
+- 🔭 I’m currently working on <a href="https://ismael-rojas.vercel.app" target="_blank" rel="noopener noreferrer">My portfolio</a>
   
 
 - 🌱 I’m currently learning Typescript, MongoDB and Tailwind  
