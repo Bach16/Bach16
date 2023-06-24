@@ -1,6 +1,6 @@
 ## Hey!👋
 
-### <div align="left">I'm Mateo, an 19 years old Full-stack developer from Ecuador 👨‍💻</div>  
+### <div align="left">I'm Mateo, an 19 years old Full-stack developer 👨‍💻</div>  
  
 Hello! 🙂 I'm Mateo Rojas, Full-stack developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
