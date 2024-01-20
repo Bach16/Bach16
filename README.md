@@ -5,10 +5,10 @@
 Hello! 🙂 I'm Mateo Rojas, Full-stack developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
 
-- 🔭 I’m currently working on <a href="https://github.com/Daveless/dulcina-front-0" target="_blank" rel="noopener noreferrer">Dulcina</a>
+- 🔭 I’m currently working on <a href="https://minima-mauve.vercel.app" target="_blank" rel="noopener noreferrer">Minima</a>
   
 
-- 🌱 I’m currently learning Typescript, MongoDB and Tailwind  
+- 🌱 I’m currently learning Typescript, and Tailwind  
   
 
 - ❓ Any questions regarding React and similar technologies are welcome. 
