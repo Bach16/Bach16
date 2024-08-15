@@ -1,6 +1,6 @@
 ## Hey!👋
 
-### <div align="left">I'm Mateo, an 20 years old Full-stack developer 👨‍💻</div>  
+### <div align="left">I'm Ismael, an 20 years old Full-stack developer 👨‍💻</div>  
  
 Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
@@ -67,7 +67,7 @@ Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arr
 <a href="https://github.com/Bach16" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mateo-rojas-villacreses-583438252" target="_blank">
+<a href="https://www.linkedin.com/in/ismael-rojas-villacreses-583438252/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dribbble.com/bach76" target="_blank">
