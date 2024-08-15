@@ -2,13 +2,13 @@
 
 ### <div align="left">I'm Mateo, an 20 years old Full-stack developer 👨‍💻</div>  
  
-Hello! 🙂 I'm Mateo Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
+Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
 
 - 🔭 I’m currently working on <a href="https://minima-mauve.vercel.app" target="_blank" rel="noopener noreferrer">Minima</a>
   
 
-- 🌱 I’m currently learning Typescript, and Tailwind  
+- 🌱 I’m currently learning React native
   
 
 - ❓ Any questions regarding React and similar technologies are welcome. 
