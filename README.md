@@ -5,9 +5,6 @@
 Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
 
-- 🔭 I’m currently working on <a href="https://minima-mauve.vercel.app" target="_blank" rel="noopener noreferrer">Minima</a>
-  
-
 - 🌱 I’m currently learning React native
   
 
