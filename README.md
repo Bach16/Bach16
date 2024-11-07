@@ -1,6 +1,6 @@
 ## Hey!👋
 
-### <div align="left">I'm Ismael, an 20 years old Full-stack developer 👨‍💻</div>  
+### <div align="left">I'm Ismael, an 20 years old Front-end developer 👨‍💻</div>  
  
 Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
