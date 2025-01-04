@@ -5,7 +5,7 @@
 Hello! 🙂 I'm Ismael Rojas, Front-end developer, and web designer, with my arrival to the IT world, I have discovered and developed a great ability to adapt, and a huge enthusiasm for translating innovative ideas into code.
   
 
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning Pen testing
   
 
 - ❓ Any questions regarding React and similar technologies are welcome. 
